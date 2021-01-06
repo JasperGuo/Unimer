@@ -1,0 +1,5 @@
+{
+    "encoder_hidden_dim": 128,
+    "batch_size": 16,
+    "lr": 0.01
+}

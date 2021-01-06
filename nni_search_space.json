@@ -1,0 +1,11 @@
+{
+    "encoder_hidden_dim":{"_type":"choice","_value":[64, 128, 256]},
+    "encoder_input_dropout":{"_type":"choice","_value":[0.1, 0.2]},
+    "encoder_output_dropout":{"_type":"choice","_value":[0.1, 0.2]},
+    "decoder_num_layers":{"_type":"choice","_value":[1, 2]},
+    "rule_embedding_dim":{"_type":"choice","_value":[64, 128, 256]},
+    "nonterminal_embedding_dim":{"_type":"choice","_value":[64, 128, 256]},
+    "decoder_dropout":{"_type":"choice","_value":[0.1, 0.2, 0.3]},
+    "batch_size":{"_type":"choice","_value":[16, 32, 48, 64]},
+    "lr":{"_type": "uniform", "_value": [0.001, 0.1]}
+}

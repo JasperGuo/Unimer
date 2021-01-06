@@ -1,0 +1,29 @@
+#!/bin/bash
+
+python ./run_parser.py --do_train=True \
+--model=parsing \
+--source_embedding_dim=512 \
+--encoder_hidden_dim=256 \
+--encoder_bidirectional=True \
+--encoder_input_dropout=0.2 \
+--encoder_output_dropout=0.2 \
+--decoder_hidden_dim=512 \
+--decoder_num_layers=2 \
+--rule_embedding_dim=256 \
+--nonterminal_embedding_dim=256 \
+--max_decode_length=90 \
+--serialization_dir=./trained_models/geo/funql_typed_grammar_model_seed_1 \
+--seed=1 \
+--dropout=0.1 \
+--task=geo \
+--language=typed_funql \
+--validation_metric=+accuracy \
+--train_data=./data/geo/geo_funql_train.tsv \
+--test_data=./data/geo/geo_funql_test.tsv \
+--batch_size=48 \
+--lr=0.0025 \
+--patient=50 \
+--optimizer=adam \
+--epoch=150 \
+--model_save_interval=1 \
+--gradient_clip=5 \

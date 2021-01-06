@@ -1,0 +1,168 @@
+"BBNA", "BNA", "LIMOUSINE",           6.00
+"BBNA", "BNA", "RENTAL CAR",            ""
+"BBNA", "BNA", "AIR TAXI OPERATION",    ""
+"BBOS", "BOS", "LIMOUSINE",           5.00
+"BBOS", "BOS", "RENTAL CAR",            ""
+"BBOS", "BOS", "AIR TAXI OPERATION",    ""
+"BBUR", "BUR", "RENTAL CAR",            ""
+"BBUR", "BUR", "AIR TAXI OPERATION",    ""
+"BBWI", "BWI", "LIMOUSINE",           5.00
+"BBWI", "BWI", "RENTAL CAR",            ""
+"BBWI", "BWI", "AIR TAXI OPERATION",    ""
+"CCHI", "MDW", "LIMOUSINE",           9.50
+"CCHI", "MDW", "RENTAL CAR",            ""
+"CCHI", "MDW", "AIR TAXI OPERATION",    ""
+"CCHI", "ORD", "LIMOUSINE",          12.50
+"CCHI", "ORD", "RENTAL CAR",            ""
+"CCHI", "ORD", "AIR TAXI OPERATION",    ""
+"CCHI", "ORD", "RAPID TRANSIT",       1.50
+"CCLE", "CLE", "LIMOUSINE",           5.50
+"CCLE", "CLE", "RENTAL CAR",            ""
+"CCLE", "CLE", "AIR TAXI OPERATION",    ""
+"CCLE", "CLE", "RAPID TRANSIT",       1.00
+"CCLT", "CLT", "RENTAL CAR",            ""
+"CCMH", "CMH", "LIMOUSINE",           4.25
+"CCMH", "CMH", "RENTAL CAR",            ""
+"CCMH", "CMH", "AIR TAXI OPERATION",    ""
+"CCVG", "CVG", "LIMOUSINE",          16.90
+"CCVG", "CVG", "RENTAL CAR",            ""
+"CCVG", "CVG", "AIR TAXI OPERATION",    ""
+"DDEN", "DEN", "LIMOUSINE",           5.00
+"DDEN", "DEN", "RENTAL CAR",            ""
+"DDEN", "DEN", "AIR TAXI OPERATION",    ""
+"DDFW", "DFW", "LIMOUSINE",           6.00
+"DDFW", "DFW", "RENTAL CAR",            ""
+"DDTT", "DTW", "LIMOUSINE",           5.00
+"DDTT", "DTW", "RENTAL CAR",            ""
+"DDTT", "DTW", "AIR TAXI OPERATION",    ""
+"FDFW", "DFW", "LIMOUSINE",           6.00
+"FDFW", "DFW", "RENTAL CAR",            ""
+"HHOU", "HOU", "LIMOUSINE",           5.00
+"HHOU", "HOU", "RENTAL CAR",            ""
+"HHOU", "HOU", "AIR TAXI OPERATION",    ""
+"HHOU", "IAH", "LIMOUSINE",           9.70
+"HHOU", "IAH", "RENTAL CAR",            ""
+"HHOU", "IAH", "AIR TAXI OPERATION",    ""
+"HHPN", "HPN", "RENTAL CAR",            ""
+"HHPN", "HPN", "AIR TAXI OPERATION",    ""
+"IIND", "IND", "LIMOUSINE",           5.50
+"IIND", "IND", "RENTAL CAR",            ""
+"IIND", "IND", "AIR TAXI OPERATION",    ""
+"JNYC", "EWR", "LIMOUSINE",           0.75
+"JNYC", "EWR", "RENTAL CAR",            ""
+"JNYC", "EWR", "AIR TAXI OPERATION",    ""
+"JNYC", "EWR", "RAPID TRANSIT",       2.50
+"LLAS", "LAS", "LIMOUSINE",           4.25
+"LLAX", "BUR", "RENTAL CAR",            ""
+"LLAX", "BUR", "AIR TAXI OPERATION",    ""
+"LLAX", "LAX", "LIMOUSINE",           6.30
+"LLAX", "LAX", "RENTAL CAR",            ""
+"LLAX", "LAX", "AIR TAXI OPERATION",    ""
+"LLAX", "LGB", "RENTAL CAR",            ""
+"LLAX", "LGB", "AIR TAXI OPERATION",    ""
+"LLAX", "ONT", "RENTAL CAR",            ""
+"LLAX", "ONT", "AIR TAXI OPERATION",    ""
+"LLGB", "LGB", "RENTAL CAR",            ""
+"LLGB", "LGB", "AIR TAXI OPERATION",    ""
+"MATL", "ATL", "LIMOUSINE",           9.00
+"MATL", "ATL", "RENTAL CAR",            ""
+"MATL", "ATL", "AIR TAXI OPERATION",    ""
+"MATL", "ATL", "RAPID TRANSIT",       1.00
+"MMEM", "MEM", "LIMOUSINE",           8.00
+"MMEM", "MEM", "RENTAL CAR",            ""
+"MMEM", "MEM", "AIR TAXI OPERATION",    ""
+"MMIA", "MIA", "LIMOUSINE",           6.75
+"MMIA", "MIA", "RENTAL CAR",            ""
+"MMIA", "MIA", "AIR TAXI OPERATION",    ""
+"MMKC", "MCI", "LIMOUSINE",           9.00
+"MMKC", "MCI", "RENTAL CAR",            ""
+"MMKC", "MCI", "AIR TAXI OPERATION",    ""
+"MMKE", "MKE", "LIMOUSINE",           6.50
+"MMKE", "MKE", "RENTAL CAR",            ""
+"MMSP", "MSP", "LIMOUSINE",           8.00
+"MMSP", "MSP", "RENTAL CAR",            ""
+"MMSP", "MSP", "AIR TAXI OPERATION",    ""
+"NNYC", "EWR", "LIMOUSINE",           5.00
+"NNYC", "EWR", "RENTAL CAR",            ""
+"NNYC", "EWR", "AIR TAXI OPERATION",    ""
+"NNYC", "HPN", "RENTAL CAR",            ""
+"NNYC", "HPN", "AIR TAXI OPERATION",    ""
+"NNYC", "JFK", "LIMOUSINE",           8.00
+"NNYC", "JFK", "RENTAL CAR",            ""
+"NNYC", "JFK", "AIR TAXI OPERATION",    ""
+"NNYC", "JFK", "RAPID TRANSIT",       6.50
+"NNYC", "LGA", "LIMOUSINE",           6.00
+"NNYC", "LGA", "RENTAL CAR",            ""
+"NNYC", "LGA", "AIR TAXI OPERATION",    ""
+"OOAK", "OAK", "LIMOUSINE",           8.00
+"OOAK", "OAK", "RENTAL CAR",            ""
+"OOAK", "SFO", "LIMOUSINE",           6.00
+"OOAK", "SFO", "RENTAL CAR",            ""
+"OOAK", "SFO", "AIR TAXI OPERATION",    ""
+"OONT", "ONT", "RENTAL CAR",            ""
+"OONT", "ONT", "AIR TAXI OPERATION",    ""
+"OORL", "MCO", "LIMOUSINE",           4.50
+"OORL", "MCO", "RENTAL CAR",            ""
+"OORL", "MCO", "AIR TAXI OPERATION",    ""
+"PPHL", "PHL", "LIMOUSINE",           4.75
+"PPHL", "PHL", "RENTAL CAR",            ""
+"PPHL", "PHL", "AIR TAXI OPERATION",    ""
+"PPHL", "PHL", "RAPID TRANSIT",       4.00
+"PPHX", "PHX", "LIMOUSINE",           6.00
+"PPHX", "PHX", "RENTAL CAR",            ""
+"PPHX", "PHX", "AIR TAXI OPERATION",    ""
+"PPIT", "PIT", "LIMOUSINE",           7.50
+"PPIT", "PIT", "RENTAL CAR",            ""
+"PPIT", "PIT", "AIR TAXI OPERATION",    ""
+"SMSP", "MSP", "LIMOUSINE",           8.00
+"SMSP", "MSP", "RENTAL CAR",            ""
+"SMSP", "MSP", "AIR TAXI OPERATION",    ""
+"SSAN", "SAN", "RENTAL CAR",            ""
+"SSAN", "SAN", "AIR TAXI OPERATION",    ""
+"SSEA", "SEA", "LIMOUSINE",           7.00
+"SSEA", "SEA", "RENTAL CAR",            ""
+"SSEA", "SEA", "AIR TAXI OPERATION",    ""
+"SSFO", "OAK", "LIMOUSINE",           5.00
+"SSFO", "SFO", "LIMOUSINE",           4.00
+"SSFO", "SFO", "RENTAL CAR",            ""
+"SSFO", "SFO", "AIR TAXI OPERATION",    ""
+"SSJC", "SJC", "RENTAL CAR",            ""
+"SSJC", "SJC", "AIR TAXI OPERATION",    ""
+"SSLC", "SLC", "LIMOUSINE",           3.90
+"SSLC", "SLC", "RENTAL CAR",            ""
+"SSLC", "SLC", "AIR TAXI OPERATION",    ""
+"SSTL", "STL", "LIMOUSINE",           8.00
+"SSTL", "STL", "RENTAL CAR",            ""
+"SSTL", "STL", "AIR TAXI OPERATION",    ""
+"STPA", "PIE", "LIMOUSINE",             ""
+"STPA", "PIE", "RENTAL CAR",            ""
+"STPA", "TPA", "LIMOUSINE",           5.50
+"STPA", "TPA", "RENTAL CAR",            ""
+"STPA", "TPA", "AIR TAXI OPERATION",    ""
+"TSEA", "SEA", "LIMOUSINE",           3.50
+"TSEA", "SEA", "RENTAL CAR",            ""
+"TSEA", "SEA", "AIR TAXI OPERATION",    ""
+"TTPA", "PIE", "LIMOUSINE",             ""
+"TTPA", "PIE", "RENTAL CAR",            ""
+"TTPA", "TPA", "LIMOUSINE",           5.50
+"TTPA", "TPA", "RENTAL CAR",            ""
+"TTPA", "TPA", "AIR TAXI OPERATION",    ""
+"WWAS", "BWI", "LIMOUSINE",          10.00
+"WWAS", "DCA", "LIMOUSINE",           7.00
+"WWAS", "DCA", "RENTAL CAR",            ""
+"WWAS", "DCA", "AIR TAXI OPERATION",    ""
+"WWAS", "DCA", "RAPID TRANSIT",       1.00
+"WWAS", "IAD", "LIMOUSINE",          14.00
+"WWAS", "IAD", "RENTAL CAR",            ""
+"WWAS", "IAD", "AIR TAXI OPERATION",    ""
+"YYMQ", "YMX", "LIMOUSINE",          11.75
+"YYMQ", "YMX", "RENTAL CAR",            ""
+"YYMQ", "YUL", "LIMOUSINE",           8.50
+"YYMQ", "YUL", "RENTAL CAR",            ""
+"YYMQ", "YUL", "AIR TAXI OPERATION",    ""
+"YYTO", "YKZ", "TAXI",               27.00
+"YYTO", "YKZ", "RENTAL CAR",            ""
+"YYTO", "YKZ", "AIR TAXI OPERATION",    ""
+"YYTO", "YYZ", "LIMOUSINE",          10.00
+"YYTO", "YYZ", "RENTAL CAR",            ""
+"YYTO", "YYZ", "AIR TAXI OPERATION",    ""

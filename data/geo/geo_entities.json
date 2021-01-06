@@ -1,0 +1,2879 @@
+[
+    {
+        "value": "alabama",
+        "abbreviation": "al",
+        "type": "state"
+    },
+    {
+        "value": "birmingham",
+        "type": "city"
+    },
+    {
+        "value": "mobile",
+        "type": "city"
+    },
+    {
+        "value": "montgomery",
+        "type": "city"
+    },
+    {
+        "value": "huntsville",
+        "type": "city"
+    },
+    {
+        "value": "alaska",
+        "abbreviation": "ak",
+        "type": "state"
+    },
+    {
+        "value": "anchorage",
+        "type": "city"
+    },
+    {
+        "value": "fairbanks",
+        "type": "city"
+    },
+    {
+        "value": "juneau",
+        "type": "city"
+    },
+    {
+        "value": "sitka",
+        "type": "city"
+    },
+    {
+        "value": "arizona",
+        "abbreviation": "az",
+        "type": "state"
+    },
+    {
+        "value": "phoenix",
+        "type": "city"
+    },
+    {
+        "value": "tucson",
+        "type": "city"
+    },
+    {
+        "value": "mesa",
+        "type": "city"
+    },
+    {
+        "value": "tempe",
+        "type": "city"
+    },
+    {
+        "value": "arkansas",
+        "abbreviation": "ar",
+        "type": "state"
+    },
+    {
+        "value": "little rock",
+        "type": "city"
+    },
+    {
+        "value": "fort smith",
+        "type": "city"
+    },
+    {
+        "value": "north little rock",
+        "type": "city"
+    },
+    {
+        "value": "pine bluff",
+        "type": "city"
+    },
+    {
+        "value": "california",
+        "abbreviation": "ca",
+        "type": "state"
+    },
+    {
+        "value": "los angeles",
+        "type": "city"
+    },
+    {
+        "value": "san diego",
+        "type": "city"
+    },
+    {
+        "value": "san francisco",
+        "type": "city"
+    },
+    {
+        "value": "san jose",
+        "type": "city"
+    },
+    {
+        "value": "colorado",
+        "abbreviation": "co",
+        "type": "state"
+    },
+    {
+        "value": "denver",
+        "type": "city"
+    },
+    {
+        "value": "colorado springs",
+        "type": "city"
+    },
+    {
+        "value": "aurora",
+        "type": "city"
+    },
+    {
+        "value": "lakewood",
+        "type": "city"
+    },
+    {
+        "value": "connecticut",
+        "abbreviation": "ct",
+        "type": "state"
+    },
+    {
+        "value": "bridgeport",
+        "type": "city"
+    },
+    {
+        "value": "hartford",
+        "type": "city"
+    },
+    {
+        "value": "new haven",
+        "type": "city"
+    },
+    {
+        "value": "waterbury",
+        "type": "city"
+    },
+    {
+        "value": "delaware",
+        "abbreviation": "de",
+        "type": "state"
+    },
+    {
+        "value": "wilmington",
+        "type": "city"
+    },
+    {
+        "value": "newark",
+        "type": "city"
+    },
+    {
+        "value": "dover",
+        "type": "city"
+    },
+    {
+        "value": "brookside",
+        "type": "city"
+    },
+    {
+        "value": "district of columbia",
+        "abbreviation": "dc",
+        "type": "state"
+    },
+    {
+        "value": "tenleytown",
+        "type": "city"
+    },
+    {
+        "value": "washington",
+        "type": "city"
+    },
+    {
+        "value": "georgetown",
+        "type": "city"
+    },
+    {
+        "value": "duval circle",
+        "type": "city"
+    },
+    {
+        "value": "florida",
+        "abbreviation": "fl",
+        "type": "state"
+    },
+    {
+        "value": "jacksonville",
+        "type": "city"
+    },
+    {
+        "value": "miami",
+        "type": "city"
+    },
+    {
+        "value": "tampa",
+        "type": "city"
+    },
+    {
+        "value": "st. petersburg",
+        "type": "city"
+    },
+    {
+        "value": "georgia",
+        "abbreviation": "ga",
+        "type": "state"
+    },
+    {
+        "value": "atlanta",
+        "type": "city"
+    },
+    {
+        "value": "columbus",
+        "type": "city"
+    },
+    {
+        "value": "savannah",
+        "type": "city"
+    },
+    {
+        "value": "macon",
+        "type": "city"
+    },
+    {
+        "value": "hawaii",
+        "abbreviation": "hi",
+        "type": "state"
+    },
+    {
+        "value": "honolulu",
+        "type": "city"
+    },
+    {
+        "value": "ewa",
+        "type": "city"
+    },
+    {
+        "value": "koolaupoko",
+        "type": "city"
+    },
+    {
+        "value": "wahiawa",
+        "type": "city"
+    },
+    {
+        "value": "idaho",
+        "abbreviation": "id",
+        "type": "state"
+    },
+    {
+        "value": "boise",
+        "type": "city"
+    },
+    {
+        "value": "pocatello",
+        "type": "city"
+    },
+    {
+        "value": "idaho falls",
+        "type": "city"
+    },
+    {
+        "value": "lewiston",
+        "type": "city"
+    },
+    {
+        "value": "illinois",
+        "abbreviation": "il",
+        "type": "state"
+    },
+    {
+        "value": "chicago",
+        "type": "city"
+    },
+    {
+        "value": "rockford",
+        "type": "city"
+    },
+    {
+        "value": "peoria",
+        "type": "city"
+    },
+    {
+        "value": "springfield",
+        "type": "city"
+    },
+    {
+        "value": "indiana",
+        "abbreviation": "in",
+        "type": "state"
+    },
+    {
+        "value": "indianapolis",
+        "type": "city"
+    },
+    {
+        "value": "fort wayne",
+        "type": "city"
+    },
+    {
+        "value": "gary",
+        "type": "city"
+    },
+    {
+        "value": "evansville",
+        "type": "city"
+    },
+    {
+        "value": "iowa",
+        "abbreviation": "ia",
+        "type": "state"
+    },
+    {
+        "value": "des moines",
+        "type": "city"
+    },
+    {
+        "value": "cedar rapids",
+        "type": "city"
+    },
+    {
+        "value": "davenport",
+        "type": "city"
+    },
+    {
+        "value": "sioux city",
+        "type": "city"
+    },
+    {
+        "value": "kansas",
+        "abbreviation": "ks",
+        "type": "state"
+    },
+    {
+        "value": "wichita",
+        "type": "city"
+    },
+    {
+        "value": "kansas city",
+        "type": "city"
+    },
+    {
+        "value": "topeka",
+        "type": "city"
+    },
+    {
+        "value": "overland park",
+        "type": "city"
+    },
+    {
+        "value": "kentucky",
+        "abbreviation": "ky",
+        "type": "state"
+    },
+    {
+        "value": "louisville",
+        "type": "city"
+    },
+    {
+        "value": "lexington",
+        "type": "city"
+    },
+    {
+        "value": "owensboro",
+        "type": "city"
+    },
+    {
+        "value": "covington",
+        "type": "city"
+    },
+    {
+        "value": "louisiana",
+        "abbreviation": "la",
+        "type": "state"
+    },
+    {
+        "value": "new orleans",
+        "type": "city"
+    },
+    {
+        "value": "baton rouge",
+        "type": "city"
+    },
+    {
+        "value": "shreveport",
+        "type": "city"
+    },
+    {
+        "value": "metairie",
+        "type": "city"
+    },
+    {
+        "value": "maine",
+        "abbreviation": "me",
+        "type": "state"
+    },
+    {
+        "value": "portland",
+        "type": "city"
+    },
+    {
+        "value": "bangor",
+        "type": "city"
+    },
+    {
+        "value": "auburn",
+        "type": "city"
+    },
+    {
+        "value": "maryland",
+        "abbreviation": "md",
+        "type": "state"
+    },
+    {
+        "value": "baltimore",
+        "type": "city"
+    },
+    {
+        "value": "silver spring",
+        "type": "city"
+    },
+    {
+        "value": "dundalk",
+        "type": "city"
+    },
+    {
+        "value": "bethesda",
+        "type": "city"
+    },
+    {
+        "value": "massachusetts",
+        "abbreviation": "ma",
+        "type": "state"
+    },
+    {
+        "value": "boston",
+        "type": "city"
+    },
+    {
+        "value": "worcester",
+        "type": "city"
+    },
+    {
+        "value": "new bedford",
+        "type": "city"
+    },
+    {
+        "value": "michigan",
+        "abbreviation": "mi",
+        "type": "state"
+    },
+    {
+        "value": "detroit",
+        "type": "city"
+    },
+    {
+        "value": "grand rapids",
+        "type": "city"
+    },
+    {
+        "value": "warren",
+        "type": "city"
+    },
+    {
+        "value": "flint",
+        "type": "city"
+    },
+    {
+        "value": "minnesota",
+        "abbreviation": "mn",
+        "type": "state"
+    },
+    {
+        "value": "minneapolis",
+        "type": "city"
+    },
+    {
+        "value": "st. paul",
+        "type": "city"
+    },
+    {
+        "value": "duluth",
+        "type": "city"
+    },
+    {
+        "value": "bloomington",
+        "type": "city"
+    },
+    {
+        "value": "mississippi",
+        "abbreviation": "ms",
+        "type": "state"
+    },
+    {
+        "value": "jackson",
+        "type": "city"
+    },
+    {
+        "value": "biloxi",
+        "type": "city"
+    },
+    {
+        "value": "meridian",
+        "type": "city"
+    },
+    {
+        "value": "hattiesburg",
+        "type": "city"
+    },
+    {
+        "value": "missouri",
+        "abbreviation": "mo",
+        "type": "state"
+    },
+    {
+        "value": "st. louis",
+        "type": "city"
+    },
+    {
+        "value": "independence",
+        "type": "city"
+    },
+    {
+        "value": "montana",
+        "abbreviation": "mt",
+        "type": "state"
+    },
+    {
+        "value": "billings",
+        "type": "city"
+    },
+    {
+        "value": "great falls",
+        "type": "city"
+    },
+    {
+        "value": "butte",
+        "type": "city"
+    },
+    {
+        "value": "missoula",
+        "type": "city"
+    },
+    {
+        "value": "nebraska",
+        "abbreviation": "ne",
+        "type": "state"
+    },
+    {
+        "value": "omaha",
+        "type": "city"
+    },
+    {
+        "value": "lincoln",
+        "type": "city"
+    },
+    {
+        "value": "grand island",
+        "type": "city"
+    },
+    {
+        "value": "north platte",
+        "type": "city"
+    },
+    {
+        "value": "nevada",
+        "abbreviation": "nv",
+        "type": "state"
+    },
+    {
+        "value": "las vegas",
+        "type": "city"
+    },
+    {
+        "value": "reno",
+        "type": "city"
+    },
+    {
+        "value": "sunrise manor",
+        "type": "city"
+    },
+    {
+        "value": "sparks",
+        "type": "city"
+    },
+    {
+        "value": "new hampshire",
+        "abbreviation": "nh",
+        "type": "state"
+    },
+    {
+        "value": "manchester",
+        "type": "city"
+    },
+    {
+        "value": "nashua",
+        "type": "city"
+    },
+    {
+        "value": "concord",
+        "type": "city"
+    },
+    {
+        "value": "portsmouth",
+        "type": "city"
+    },
+    {
+        "value": "new jersey",
+        "abbreviation": "nj",
+        "type": "state"
+    },
+    {
+        "value": "jersey city",
+        "type": "city"
+    },
+    {
+        "value": "paterson",
+        "type": "city"
+    },
+    {
+        "value": "elizabeth",
+        "type": "city"
+    },
+    {
+        "value": "new mexico",
+        "abbreviation": "nm",
+        "type": "state"
+    },
+    {
+        "value": "albuquerque",
+        "type": "city"
+    },
+    {
+        "value": "santa fe",
+        "type": "city"
+    },
+    {
+        "value": "las cruces",
+        "type": "city"
+    },
+    {
+        "value": "roswell",
+        "type": "city"
+    },
+    {
+        "value": "new york",
+        "abbreviation": "ny",
+        "type": "state"
+    },
+    {
+        "value": "new york",
+        "type": "city"
+    },
+    {
+        "value": "buffalo",
+        "type": "city"
+    },
+    {
+        "value": "rochester",
+        "type": "city"
+    },
+    {
+        "value": "yonkers",
+        "type": "city"
+    },
+    {
+        "value": "north carolina",
+        "abbreviation": "nc",
+        "type": "state"
+    },
+    {
+        "value": "charlotte",
+        "type": "city"
+    },
+    {
+        "value": "greensboro",
+        "type": "city"
+    },
+    {
+        "value": "raleigh",
+        "type": "city"
+    },
+    {
+        "value": "winston-salem",
+        "type": "city"
+    },
+    {
+        "value": "north dakota",
+        "abbreviation": "nd",
+        "type": "state"
+    },
+    {
+        "value": "fargo",
+        "type": "city"
+    },
+    {
+        "value": "bismarck",
+        "type": "city"
+    },
+    {
+        "value": "grand forks",
+        "type": "city"
+    },
+    {
+        "value": "minot",
+        "type": "city"
+    },
+    {
+        "value": "ohio",
+        "abbreviation": "oh",
+        "type": "state"
+    },
+    {
+        "value": "cleveland",
+        "type": "city"
+    },
+    {
+        "value": "cincinnati",
+        "type": "city"
+    },
+    {
+        "value": "toledo",
+        "type": "city"
+    },
+    {
+        "value": "oklahoma",
+        "abbreviation": "ok",
+        "type": "state"
+    },
+    {
+        "value": "oklahoma city",
+        "type": "city"
+    },
+    {
+        "value": "tulsa",
+        "type": "city"
+    },
+    {
+        "value": "lawton",
+        "type": "city"
+    },
+    {
+        "value": "norman",
+        "type": "city"
+    },
+    {
+        "value": "oregon",
+        "abbreviation": "or",
+        "type": "state"
+    },
+    {
+        "value": "eugene",
+        "type": "city"
+    },
+    {
+        "value": "salem",
+        "type": "city"
+    },
+    {
+        "value": "pennsylvania",
+        "abbreviation": "pa",
+        "type": "state"
+    },
+    {
+        "value": "philadelphia",
+        "type": "city"
+    },
+    {
+        "value": "pittsburgh",
+        "type": "city"
+    },
+    {
+        "value": "erie",
+        "type": "city"
+    },
+    {
+        "value": "allentown",
+        "type": "city"
+    },
+    {
+        "value": "rhode island",
+        "abbreviation": "ri",
+        "type": "state"
+    },
+    {
+        "value": "providence",
+        "type": "city"
+    },
+    {
+        "value": "warwick",
+        "type": "city"
+    },
+    {
+        "value": "cranston",
+        "type": "city"
+    },
+    {
+        "value": "pawtucket",
+        "type": "city"
+    },
+    {
+        "value": "south carolina",
+        "abbreviation": "sc",
+        "type": "state"
+    },
+    {
+        "value": "columbia",
+        "type": "city"
+    },
+    {
+        "value": "charleston",
+        "type": "city"
+    },
+    {
+        "value": "north charleston",
+        "type": "city"
+    },
+    {
+        "value": "greenville",
+        "type": "city"
+    },
+    {
+        "value": "south dakota",
+        "abbreviation": "sd",
+        "type": "state"
+    },
+    {
+        "value": "sioux falls",
+        "type": "city"
+    },
+    {
+        "value": "rapid city",
+        "type": "city"
+    },
+    {
+        "value": "aberdeen",
+        "type": "city"
+    },
+    {
+        "value": "watertown",
+        "type": "city"
+    },
+    {
+        "value": "tennessee",
+        "abbreviation": "tn",
+        "type": "state"
+    },
+    {
+        "value": "memphis",
+        "type": "city"
+    },
+    {
+        "value": "nashville",
+        "type": "city"
+    },
+    {
+        "value": "knoxville",
+        "type": "city"
+    },
+    {
+        "value": "chattanooga",
+        "type": "city"
+    },
+    {
+        "value": "texas",
+        "abbreviation": "tx",
+        "type": "state"
+    },
+    {
+        "value": "houston",
+        "type": "city"
+    },
+    {
+        "value": "dallas",
+        "type": "city"
+    },
+    {
+        "value": "san antonio",
+        "type": "city"
+    },
+    {
+        "value": "el paso",
+        "type": "city"
+    },
+    {
+        "value": "utah",
+        "abbreviation": "ut",
+        "type": "state"
+    },
+    {
+        "value": "salt lake city",
+        "type": "city"
+    },
+    {
+        "value": "provo",
+        "type": "city"
+    },
+    {
+        "value": "west valley",
+        "type": "city"
+    },
+    {
+        "value": "ogden",
+        "type": "city"
+    },
+    {
+        "value": "vermont",
+        "abbreviation": "vt",
+        "type": "state"
+    },
+    {
+        "value": "burlington",
+        "type": "city"
+    },
+    {
+        "value": "rutland",
+        "type": "city"
+    },
+    {
+        "value": "bennington",
+        "type": "city"
+    },
+    {
+        "value": "essex",
+        "type": "city"
+    },
+    {
+        "value": "virginia",
+        "abbreviation": "va",
+        "type": "state"
+    },
+    {
+        "value": "norfolk",
+        "type": "city"
+    },
+    {
+        "value": "virginia beach",
+        "type": "city"
+    },
+    {
+        "value": "richmond",
+        "type": "city"
+    },
+    {
+        "value": "arlington",
+        "type": "city"
+    },
+    {
+        "value": "washington",
+        "abbreviation": "wa",
+        "type": "state"
+    },
+    {
+        "value": "seattle",
+        "type": "city"
+    },
+    {
+        "value": "spokane",
+        "type": "city"
+    },
+    {
+        "value": "tacoma",
+        "type": "city"
+    },
+    {
+        "value": "bellevue",
+        "type": "city"
+    },
+    {
+        "value": "west virginia",
+        "abbreviation": "wv",
+        "type": "state"
+    },
+    {
+        "value": "huntington",
+        "type": "city"
+    },
+    {
+        "value": "wheeling",
+        "type": "city"
+    },
+    {
+        "value": "parkersburg",
+        "type": "city"
+    },
+    {
+        "value": "wisconsin",
+        "abbreviation": "wi",
+        "type": "state"
+    },
+    {
+        "value": "milwaukee",
+        "type": "city"
+    },
+    {
+        "value": "madison",
+        "type": "city"
+    },
+    {
+        "value": "green bay",
+        "type": "city"
+    },
+    {
+        "value": "racine",
+        "type": "city"
+    },
+    {
+        "value": "wyoming",
+        "abbreviation": "wy",
+        "type": "state"
+    },
+    {
+        "value": "casper",
+        "type": "city"
+    },
+    {
+        "value": "cheyenne",
+        "type": "city"
+    },
+    {
+        "value": "laramie",
+        "type": "city"
+    },
+    {
+        "value": "rock springs",
+        "type": "city"
+    },
+    {
+        "value": "tuscaloosa",
+        "type": "city"
+    },
+    {
+        "value": "glendale",
+        "type": "city"
+    },
+    {
+        "value": "scottsdale",
+        "type": "city"
+    },
+    {
+        "value": "long beach",
+        "type": "city"
+    },
+    {
+        "value": "oakland",
+        "type": "city"
+    },
+    {
+        "value": "sacramento",
+        "type": "city"
+    },
+    {
+        "value": "anaheim",
+        "type": "city"
+    },
+    {
+        "value": "fresno",
+        "type": "city"
+    },
+    {
+        "value": "santa ana",
+        "type": "city"
+    },
+    {
+        "value": "riverside",
+        "type": "city"
+    },
+    {
+        "value": "huntington beach",
+        "type": "city"
+    },
+    {
+        "value": "stockton",
+        "type": "city"
+    },
+    {
+        "value": "fremont",
+        "type": "city"
+    },
+    {
+        "value": "torrance",
+        "type": "city"
+    },
+    {
+        "value": "garden grove",
+        "type": "city"
+    },
+    {
+        "value": "san bernardino",
+        "type": "city"
+    },
+    {
+        "value": "pasadena",
+        "type": "city"
+    },
+    {
+        "value": "east los angeles",
+        "type": "city"
+    },
+    {
+        "value": "oxnard",
+        "type": "city"
+    },
+    {
+        "value": "modesto",
+        "type": "city"
+    },
+    {
+        "value": "sunnyvale",
+        "type": "city"
+    },
+    {
+        "value": "bakersfield",
+        "type": "city"
+    },
+    {
+        "value": "berkeley",
+        "type": "city"
+    },
+    {
+        "value": "fullerton",
+        "type": "city"
+    },
+    {
+        "value": "inglewood",
+        "type": "city"
+    },
+    {
+        "value": "hayward",
+        "type": "city"
+    },
+    {
+        "value": "pomona",
+        "type": "city"
+    },
+    {
+        "value": "orange",
+        "type": "city"
+    },
+    {
+        "value": "ontario",
+        "type": "city"
+    },
+    {
+        "value": "santa monica",
+        "type": "city"
+    },
+    {
+        "value": "santa clara",
+        "type": "city"
+    },
+    {
+        "value": "citrus heights",
+        "type": "city"
+    },
+    {
+        "value": "norwalk",
+        "type": "city"
+    },
+    {
+        "value": "burbank",
+        "type": "city"
+    },
+    {
+        "value": "chula vista",
+        "type": "city"
+    },
+    {
+        "value": "santa rosa",
+        "type": "city"
+    },
+    {
+        "value": "downey",
+        "type": "city"
+    },
+    {
+        "value": "costa mesa",
+        "type": "city"
+    },
+    {
+        "value": "compton",
+        "type": "city"
+    },
+    {
+        "value": "carson",
+        "type": "city"
+    },
+    {
+        "value": "salinas",
+        "type": "city"
+    },
+    {
+        "value": "west covina",
+        "type": "city"
+    },
+    {
+        "value": "vallejo",
+        "type": "city"
+    },
+    {
+        "value": "el monte",
+        "type": "city"
+    },
+    {
+        "value": "daly city",
+        "type": "city"
+    },
+    {
+        "value": "thousand oaks",
+        "type": "city"
+    },
+    {
+        "value": "san mateo",
+        "type": "city"
+    },
+    {
+        "value": "simi valley",
+        "type": "city"
+    },
+    {
+        "value": "oceanside",
+        "type": "city"
+    },
+    {
+        "value": "santa barbara",
+        "type": "city"
+    },
+    {
+        "value": "el cajon",
+        "type": "city"
+    },
+    {
+        "value": "ventura",
+        "type": "city"
+    },
+    {
+        "value": "westminster",
+        "type": "city"
+    },
+    {
+        "value": "whittier",
+        "type": "city"
+    },
+    {
+        "value": "south gate",
+        "type": "city"
+    },
+    {
+        "value": "alhambra",
+        "type": "city"
+    },
+    {
+        "value": "buena park",
+        "type": "city"
+    },
+    {
+        "value": "san leandro",
+        "type": "city"
+    },
+    {
+        "value": "alameda",
+        "type": "city"
+    },
+    {
+        "value": "newport beach",
+        "type": "city"
+    },
+    {
+        "value": "escondido",
+        "type": "city"
+    },
+    {
+        "value": "irvine",
+        "type": "city"
+    },
+    {
+        "value": "mountain view",
+        "type": "city"
+    },
+    {
+        "value": "fairfield",
+        "type": "city"
+    },
+    {
+        "value": "redondo beach",
+        "type": "city"
+    },
+    {
+        "value": "scotts valley",
+        "type": "city"
+    },
+    {
+        "value": "pueblo",
+        "type": "city"
+    },
+    {
+        "value": "arvada",
+        "type": "city"
+    },
+    {
+        "value": "boulder",
+        "type": "city"
+    },
+    {
+        "value": "fort collins",
+        "type": "city"
+    },
+    {
+        "value": "stamford",
+        "type": "city"
+    },
+    {
+        "value": "new britain",
+        "type": "city"
+    },
+    {
+        "value": "west hartford",
+        "type": "city"
+    },
+    {
+        "value": "danbury",
+        "type": "city"
+    },
+    {
+        "value": "greenwich",
+        "type": "city"
+    },
+    {
+        "value": "bristol",
+        "type": "city"
+    },
+    {
+        "value": "meriden",
+        "type": "city"
+    },
+    {
+        "value": "fort lauderdale",
+        "type": "city"
+    },
+    {
+        "value": "orlando",
+        "type": "city"
+    },
+    {
+        "value": "hollywood",
+        "type": "city"
+    },
+    {
+        "value": "miami beach",
+        "type": "city"
+    },
+    {
+        "value": "clearwater",
+        "type": "city"
+    },
+    {
+        "value": "tallahassee",
+        "type": "city"
+    },
+    {
+        "value": "gainesville",
+        "type": "city"
+    },
+    {
+        "value": "kendall",
+        "type": "city"
+    },
+    {
+        "value": "west palm beach",
+        "type": "city"
+    },
+    {
+        "value": "largo",
+        "type": "city"
+    },
+    {
+        "value": "pensacola",
+        "type": "city"
+    },
+    {
+        "value": "albany",
+        "type": "city"
+    },
+    {
+        "value": "decatur",
+        "type": "city"
+    },
+    {
+        "value": "joliet",
+        "type": "city"
+    },
+    {
+        "value": "evanston",
+        "type": "city"
+    },
+    {
+        "value": "waukegan",
+        "type": "city"
+    },
+    {
+        "value": "arlington heights",
+        "type": "city"
+    },
+    {
+        "value": "elgin",
+        "type": "city"
+    },
+    {
+        "value": "cicero",
+        "type": "city"
+    },
+    {
+        "value": "oak lawn",
+        "type": "city"
+    },
+    {
+        "value": "skokie",
+        "type": "city"
+    },
+    {
+        "value": "champaign",
+        "type": "city"
+    },
+    {
+        "value": "south bend",
+        "type": "city"
+    },
+    {
+        "value": "hammond",
+        "type": "city"
+    },
+    {
+        "value": "muncie",
+        "type": "city"
+    },
+    {
+        "value": "anderson",
+        "type": "city"
+    },
+    {
+        "value": "terre haute",
+        "type": "city"
+    },
+    {
+        "value": "waterloo",
+        "type": "city"
+    },
+    {
+        "value": "dubuque",
+        "type": "city"
+    },
+    {
+        "value": "lafayette",
+        "type": "city"
+    },
+    {
+        "value": "lake charles",
+        "type": "city"
+    },
+    {
+        "value": "kenner",
+        "type": "city"
+    },
+    {
+        "value": "monroe",
+        "type": "city"
+    },
+    {
+        "value": "cambridge",
+        "type": "city"
+    },
+    {
+        "value": "brockton",
+        "type": "city"
+    },
+    {
+        "value": "fall river",
+        "type": "city"
+    },
+    {
+        "value": "lowell",
+        "type": "city"
+    },
+    {
+        "value": "quincy",
+        "type": "city"
+    },
+    {
+        "value": "newton",
+        "type": "city"
+    },
+    {
+        "value": "lynn",
+        "type": "city"
+    },
+    {
+        "value": "somerville",
+        "type": "city"
+    },
+    {
+        "value": "framingham",
+        "type": "city"
+    },
+    {
+        "value": "lawrence",
+        "type": "city"
+    },
+    {
+        "value": "waltham",
+        "type": "city"
+    },
+    {
+        "value": "medford",
+        "type": "city"
+    },
+    {
+        "value": "lansing",
+        "type": "city"
+    },
+    {
+        "value": "sterling heights",
+        "type": "city"
+    },
+    {
+        "value": "ann arbor",
+        "type": "city"
+    },
+    {
+        "value": "livonia",
+        "type": "city"
+    },
+    {
+        "value": "dearborn",
+        "type": "city"
+    },
+    {
+        "value": "westland",
+        "type": "city"
+    },
+    {
+        "value": "kalamazoo",
+        "type": "city"
+    },
+    {
+        "value": "taylor",
+        "type": "city"
+    },
+    {
+        "value": "saginaw",
+        "type": "city"
+    },
+    {
+        "value": "pontiac",
+        "type": "city"
+    },
+    {
+        "value": "st. clair shores",
+        "type": "city"
+    },
+    {
+        "value": "southfield",
+        "type": "city"
+    },
+    {
+        "value": "clinton",
+        "type": "city"
+    },
+    {
+        "value": "royal oak",
+        "type": "city"
+    },
+    {
+        "value": "dearborn heights",
+        "type": "city"
+    },
+    {
+        "value": "troy",
+        "type": "city"
+    },
+    {
+        "value": "waterford",
+        "type": "city"
+    },
+    {
+        "value": "wyoming",
+        "type": "city"
+    },
+    {
+        "value": "redford",
+        "type": "city"
+    },
+    {
+        "value": "farmington hills",
+        "type": "city"
+    },
+    {
+        "value": "st. joseph",
+        "type": "city"
+    },
+    {
+        "value": "trenton",
+        "type": "city"
+    },
+    {
+        "value": "woodbridge",
+        "type": "city"
+    },
+    {
+        "value": "camden",
+        "type": "city"
+    },
+    {
+        "value": "east orange",
+        "type": "city"
+    },
+    {
+        "value": "clifton",
+        "type": "city"
+    },
+    {
+        "value": "edison",
+        "type": "city"
+    },
+    {
+        "value": "cherry hill",
+        "type": "city"
+    },
+    {
+        "value": "bayonne",
+        "type": "city"
+    },
+    {
+        "value": "middletown",
+        "type": "city"
+    },
+    {
+        "value": "irvington",
+        "type": "city"
+    },
+    {
+        "value": "syracuse",
+        "type": "city"
+    },
+    {
+        "value": "cheektowaga",
+        "type": "city"
+    },
+    {
+        "value": "utica",
+        "type": "city"
+    },
+    {
+        "value": "niagara falls",
+        "type": "city"
+    },
+    {
+        "value": "new rochelle",
+        "type": "city"
+    },
+    {
+        "value": "schenectady",
+        "type": "city"
+    },
+    {
+        "value": "mount vernon",
+        "type": "city"
+    },
+    {
+        "value": "irondequoit",
+        "type": "city"
+    },
+    {
+        "value": "levittown",
+        "type": "city"
+    },
+    {
+        "value": "durham",
+        "type": "city"
+    },
+    {
+        "value": "high point",
+        "type": "city"
+    },
+    {
+        "value": "fayetteville",
+        "type": "city"
+    },
+    {
+        "value": "akron",
+        "type": "city"
+    },
+    {
+        "value": "dayton",
+        "type": "city"
+    },
+    {
+        "value": "youngstown",
+        "type": "city"
+    },
+    {
+        "value": "canton",
+        "type": "city"
+    },
+    {
+        "value": "parma",
+        "type": "city"
+    },
+    {
+        "value": "lorain",
+        "type": "city"
+    },
+    {
+        "value": "hamilton",
+        "type": "city"
+    },
+    {
+        "value": "kettering",
+        "type": "city"
+    },
+    {
+        "value": "euclid",
+        "type": "city"
+    },
+    {
+        "value": "elyria",
+        "type": "city"
+    },
+    {
+        "value": "scranton",
+        "type": "city"
+    },
+    {
+        "value": "upper darby",
+        "type": "city"
+    },
+    {
+        "value": "reading",
+        "type": "city"
+    },
+    {
+        "value": "bethlehem",
+        "type": "city"
+    },
+    {
+        "value": "lower merion",
+        "type": "city"
+    },
+    {
+        "value": "abingdon",
+        "type": "city"
+    },
+    {
+        "value": "bristol township",
+        "type": "city"
+    },
+    {
+        "value": "penn hills",
+        "type": "city"
+    },
+    {
+        "value": "altoona",
+        "type": "city"
+    },
+    {
+        "value": "fort worth",
+        "type": "city"
+    },
+    {
+        "value": "austin",
+        "type": "city"
+    },
+    {
+        "value": "corpus christi",
+        "type": "city"
+    },
+    {
+        "value": "lubbock",
+        "type": "city"
+    },
+    {
+        "value": "amarillo",
+        "type": "city"
+    },
+    {
+        "value": "garland",
+        "type": "city"
+    },
+    {
+        "value": "beaumont",
+        "type": "city"
+    },
+    {
+        "value": "irving",
+        "type": "city"
+    },
+    {
+        "value": "waco",
+        "type": "city"
+    },
+    {
+        "value": "abilene",
+        "type": "city"
+    },
+    {
+        "value": "wichita falls",
+        "type": "city"
+    },
+    {
+        "value": "laredo",
+        "type": "city"
+    },
+    {
+        "value": "odessa",
+        "type": "city"
+    },
+    {
+        "value": "brownsville",
+        "type": "city"
+    },
+    {
+        "value": "san angelo",
+        "type": "city"
+    },
+    {
+        "value": "richardson",
+        "type": "city"
+    },
+    {
+        "value": "plano",
+        "type": "city"
+    },
+    {
+        "value": "grand prairie",
+        "type": "city"
+    },
+    {
+        "value": "midland",
+        "type": "city"
+    },
+    {
+        "value": "tyler",
+        "type": "city"
+    },
+    {
+        "value": "mesquite",
+        "type": "city"
+    },
+    {
+        "value": "mcallen",
+        "type": "city"
+    },
+    {
+        "value": "longview",
+        "type": "city"
+    },
+    {
+        "value": "port arthur",
+        "type": "city"
+    },
+    {
+        "value": "newport news",
+        "type": "city"
+    },
+    {
+        "value": "hampton",
+        "type": "city"
+    },
+    {
+        "value": "chesapeake",
+        "type": "city"
+    },
+    {
+        "value": "alexandria",
+        "type": "city"
+    },
+    {
+        "value": "roanoke",
+        "type": "city"
+    },
+    {
+        "value": "lynchburg",
+        "type": "city"
+    },
+    {
+        "value": "kenosha",
+        "type": "city"
+    },
+    {
+        "value": "west allis",
+        "type": "city"
+    },
+    {
+        "value": "appleton",
+        "type": "city"
+    },
+    {
+        "value": "mississippi",
+        "type": "river"
+    },
+    {
+        "value": "missouri",
+        "type": "river"
+    },
+    {
+        "value": "colorado",
+        "type": "river"
+    },
+    {
+        "value": "ohio",
+        "type": "river"
+    },
+    {
+        "value": "red",
+        "type": "river"
+    },
+    {
+        "value": "arkansas",
+        "type": "river"
+    },
+    {
+        "value": "canadian",
+        "type": "river"
+    },
+    {
+        "value": "connecticut",
+        "type": "river"
+    },
+    {
+        "value": "delaware",
+        "type": "river"
+    },
+    {
+        "value": "little missouri",
+        "type": "river"
+    },
+    {
+        "value": "snake",
+        "type": "river"
+    },
+    {
+        "value": "chattahoochee",
+        "type": "river"
+    },
+    {
+        "value": "cimarron",
+        "type": "river"
+    },
+    {
+        "value": "green",
+        "type": "river"
+    },
+    {
+        "value": "north platte",
+        "type": "river"
+    },
+    {
+        "value": "potomac",
+        "type": "river"
+    },
+    {
+        "value": "republican",
+        "type": "river"
+    },
+    {
+        "value": "rio grande",
+        "type": "river"
+    },
+    {
+        "value": "san juan",
+        "type": "river"
+    },
+    {
+        "value": "tennessee",
+        "type": "river"
+    },
+    {
+        "value": "wabash",
+        "type": "river"
+    },
+    {
+        "value": "yellowstone",
+        "type": "river"
+    },
+    {
+        "value": "allegheny",
+        "type": "river"
+    },
+    {
+        "value": "bighorn",
+        "type": "river"
+    },
+    {
+        "value": "cheyenne",
+        "type": "river"
+    },
+    {
+        "value": "clark fork",
+        "type": "river"
+    },
+    {
+        "value": "columbia",
+        "type": "river"
+    },
+    {
+        "value": "cumberland",
+        "type": "river"
+    },
+    {
+        "value": "dakota",
+        "type": "river"
+    },
+    {
+        "value": "gila",
+        "type": "river"
+    },
+    {
+        "value": "hudson",
+        "type": "river"
+    },
+    {
+        "value": "neosho",
+        "type": "river"
+    },
+    {
+        "value": "niobrara",
+        "type": "river"
+    },
+    {
+        "value": "ouachita",
+        "type": "river"
+    },
+    {
+        "value": "pearl",
+        "type": "river"
+    },
+    {
+        "value": "pecos",
+        "type": "river"
+    },
+    {
+        "value": "powder",
+        "type": "river"
+    },
+    {
+        "value": "roanoke",
+        "type": "river"
+    },
+    {
+        "value": "rock",
+        "type": "river"
+    },
+    {
+        "value": "smoky hill",
+        "type": "river"
+    },
+    {
+        "value": "south platte",
+        "type": "river"
+    },
+    {
+        "value": "st. francis",
+        "type": "river"
+    },
+    {
+        "value": "tombigbee",
+        "type": "river"
+    },
+    {
+        "value": "washita",
+        "type": "river"
+    },
+    {
+        "value": "wateree catawba",
+        "type": "river"
+    },
+    {
+        "value": "white",
+        "type": "river"
+    },
+    {
+        "value": "cheaha mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "gulf of mexico",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount mckinley",
+        "type": "highest point"
+    },
+    {
+        "value": "pacific ocean",
+        "type": "lowest point"
+    },
+    {
+        "value": "humphreys peak",
+        "type": "highest point"
+    },
+    {
+        "value": "colorado river",
+        "type": "lowest point"
+    },
+    {
+        "value": "magazine mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "ouachita river",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount whitney",
+        "type": "highest point"
+    },
+    {
+        "value": "death valley",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount elbert",
+        "type": "highest point"
+    },
+    {
+        "value": "arkansas river",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount frissell",
+        "type": "highest point"
+    },
+    {
+        "value": "long island sound",
+        "type": "lowest point"
+    },
+    {
+        "value": "centerville",
+        "type": "highest point"
+    },
+    {
+        "value": "atlantic ocean",
+        "type": "lowest point"
+    },
+    {
+        "value": "tenleytown",
+        "type": "highest point"
+    },
+    {
+        "value": "potomac river",
+        "type": "lowest point"
+    },
+    {
+        "value": "walton county",
+        "type": "highest point"
+    },
+    {
+        "value": "brasstown bald",
+        "type": "highest point"
+    },
+    {
+        "value": "mauna kea",
+        "type": "highest point"
+    },
+    {
+        "value": "borah peak",
+        "type": "highest point"
+    },
+    {
+        "value": "snake river",
+        "type": "lowest point"
+    },
+    {
+        "value": "charles mound",
+        "type": "highest point"
+    },
+    {
+        "value": "mississippi river",
+        "type": "lowest point"
+    },
+    {
+        "value": "franklin township",
+        "type": "highest point"
+    },
+    {
+        "value": "ohio river",
+        "type": "lowest point"
+    },
+    {
+        "value": "ocheyedan mound",
+        "type": "highest point"
+    },
+    {
+        "value": "mount sunflower",
+        "type": "highest point"
+    },
+    {
+        "value": "verdigris river",
+        "type": "lowest point"
+    },
+    {
+        "value": "black mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "driskill mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "new orleans",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount katahdin",
+        "type": "highest point"
+    },
+    {
+        "value": "backbone mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "mount greylock",
+        "type": "highest point"
+    },
+    {
+        "value": "mount curwood",
+        "type": "highest point"
+    },
+    {
+        "value": "lake erie",
+        "type": "lowest point"
+    },
+    {
+        "value": "eagle mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "lake superior",
+        "type": "lowest point"
+    },
+    {
+        "value": "woodall mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "taum sauk mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "st. francis river",
+        "type": "lowest point"
+    },
+    {
+        "value": "granite peak",
+        "type": "highest point"
+    },
+    {
+        "value": "kootenai river",
+        "type": "lowest point"
+    },
+    {
+        "value": "johnson township",
+        "type": "highest point"
+    },
+    {
+        "value": "southeast corner",
+        "type": "lowest point"
+    },
+    {
+        "value": "boundary peak",
+        "type": "highest point"
+    },
+    {
+        "value": "mount washington",
+        "type": "highest point"
+    },
+    {
+        "value": "high point",
+        "type": "highest point"
+    },
+    {
+        "value": "wheeler peak",
+        "type": "highest point"
+    },
+    {
+        "value": "red bluff reservoir",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount marcy",
+        "type": "highest point"
+    },
+    {
+        "value": "mount mitchell",
+        "type": "highest point"
+    },
+    {
+        "value": "white butte",
+        "type": "highest point"
+    },
+    {
+        "value": "red river",
+        "type": "lowest point"
+    },
+    {
+        "value": "campbell hill",
+        "type": "highest point"
+    },
+    {
+        "value": "black mesa",
+        "type": "highest point"
+    },
+    {
+        "value": "little river",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount hood",
+        "type": "highest point"
+    },
+    {
+        "value": "mount davis",
+        "type": "highest point"
+    },
+    {
+        "value": "delaware river",
+        "type": "lowest point"
+    },
+    {
+        "value": "jerimoth hill",
+        "type": "highest point"
+    },
+    {
+        "value": "sassafras mountain",
+        "type": "highest point"
+    },
+    {
+        "value": "harney peak",
+        "type": "highest point"
+    },
+    {
+        "value": "big stone lake",
+        "type": "lowest point"
+    },
+    {
+        "value": "clingmans dome",
+        "type": "highest point"
+    },
+    {
+        "value": "guadalupe peak",
+        "type": "highest point"
+    },
+    {
+        "value": "kings peak",
+        "type": "highest point"
+    },
+    {
+        "value": "beaver dam creek",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount mansfield",
+        "type": "highest point"
+    },
+    {
+        "value": "lake champlain",
+        "type": "lowest point"
+    },
+    {
+        "value": "mount rogers",
+        "type": "highest point"
+    },
+    {
+        "value": "mount rainier",
+        "type": "highest point"
+    },
+    {
+        "value": "spruce knob",
+        "type": "highest point"
+    },
+    {
+        "value": "timms hill",
+        "type": "highest point"
+    },
+    {
+        "value": "lake michigan",
+        "type": "lowest point"
+    },
+    {
+        "value": "gannett peak",
+        "type": "highest point"
+    },
+    {
+        "value": "belle fourche river",
+        "type": "lowest point"
+    },
+    {
+        "value": "mckinley",
+        "type": "mountain"
+    },
+    {
+        "value": "st. elias",
+        "type": "mountain"
+    },
+    {
+        "value": "foraker",
+        "type": "mountain"
+    },
+    {
+        "value": "bona",
+        "type": "mountain"
+    },
+    {
+        "value": "blackburn",
+        "type": "mountain"
+    },
+    {
+        "value": "kennedy",
+        "type": "mountain"
+    },
+    {
+        "value": "sanford",
+        "type": "mountain"
+    },
+    {
+        "value": "south buttress",
+        "type": "mountain"
+    },
+    {
+        "value": "vancouver",
+        "type": "mountain"
+    },
+    {
+        "value": "churchill",
+        "type": "mountain"
+    },
+    {
+        "value": "fairweather",
+        "type": "mountain"
+    },
+    {
+        "value": "hubbard",
+        "type": "mountain"
+    },
+    {
+        "value": "bear",
+        "type": "mountain"
+    },
+    {
+        "value": "east buttress",
+        "type": "mountain"
+    },
+    {
+        "value": "hunter",
+        "type": "mountain"
+    },
+    {
+        "value": "alverstone",
+        "type": "mountain"
+    },
+    {
+        "value": "browne tower",
+        "type": "mountain"
+    },
+    {
+        "value": "whitney",
+        "type": "mountain"
+    },
+    {
+        "value": "elbert",
+        "type": "mountain"
+    },
+    {
+        "value": "massive",
+        "type": "mountain"
+    },
+    {
+        "value": "harvard",
+        "type": "mountain"
+    },
+    {
+        "value": "rainier",
+        "type": "mountain"
+    },
+    {
+        "value": "williamson",
+        "type": "mountain"
+    },
+    {
+        "value": "bianca",
+        "type": "mountain"
+    },
+    {
+        "value": "la plata",
+        "type": "mountain"
+    },
+    {
+        "value": "uncompahgre",
+        "type": "mountain"
+    },
+    {
+        "value": "crestone",
+        "type": "mountain"
+    },
+    {
+        "value": "lincoln",
+        "type": "mountain"
+    },
+    {
+        "value": "grays",
+        "type": "mountain"
+    },
+    {
+        "value": "antero",
+        "type": "mountain"
+    },
+    {
+        "value": "torreys",
+        "type": "mountain"
+    },
+    {
+        "value": "castle",
+        "type": "mountain"
+    },
+    {
+        "value": "quandary",
+        "type": "mountain"
+    },
+    {
+        "value": "evans",
+        "type": "mountain"
+    },
+    {
+        "value": "longs",
+        "type": "mountain"
+    },
+    {
+        "value": "wilson",
+        "type": "mountain"
+    },
+    {
+        "value": "white",
+        "type": "mountain"
+    },
+    {
+        "value": "north palisade",
+        "type": "mountain"
+    },
+    {
+        "value": "shavano",
+        "type": "mountain"
+    },
+    {
+        "value": "belford",
+        "type": "mountain"
+    },
+    {
+        "value": "princeton",
+        "type": "mountain"
+    },
+    {
+        "value": "crestone needle",
+        "type": "mountain"
+    },
+    {
+        "value": "yale",
+        "type": "mountain"
+    },
+    {
+        "value": "bross",
+        "type": "mountain"
+    },
+    {
+        "value": "kit carson",
+        "type": "mountain"
+    },
+    {
+        "value": "wrangell",
+        "type": "mountain"
+    },
+    {
+        "value": "shasta",
+        "type": "mountain"
+    },
+    {
+        "value": "sill",
+        "type": "mountain"
+    },
+    {
+        "value": "el diente",
+        "type": "mountain"
+    },
+    {
+        "value": "maroon",
+        "type": "mountain"
+    },
+    {
+        "value": "95",
+        "type": "road"
+    },
+    {
+        "value": "90",
+        "type": "road"
+    },
+    {
+        "value": "80",
+        "type": "road"
+    },
+    {
+        "value": "70",
+        "type": "road"
+    },
+    {
+        "value": "10",
+        "type": "road"
+    },
+    {
+        "value": "40",
+        "type": "road"
+    },
+    {
+        "value": "15",
+        "type": "road"
+    },
+    {
+        "value": "20",
+        "type": "road"
+    },
+    {
+        "value": "35",
+        "type": "road"
+    },
+    {
+        "value": "55",
+        "type": "road"
+    },
+    {
+        "value": "64",
+        "type": "road"
+    },
+    {
+        "value": "75",
+        "type": "road"
+    },
+    {
+        "value": "81",
+        "type": "road"
+    },
+    {
+        "value": "77",
+        "type": "road"
+    },
+    {
+        "value": "85",
+        "type": "road"
+    },
+    {
+        "value": "94",
+        "type": "road"
+    },
+    {
+        "value": "29",
+        "type": "road"
+    },
+    {
+        "value": "65",
+        "type": "road"
+    },
+    {
+        "value": "84",
+        "type": "road"
+    },
+    {
+        "value": "5",
+        "type": "road"
+    },
+    {
+        "value": "24",
+        "type": "road"
+    },
+    {
+        "value": "25",
+        "type": "road"
+    },
+    {
+        "value": "44",
+        "type": "road"
+    },
+    {
+        "value": "59",
+        "type": "road"
+    },
+    {
+        "value": "74",
+        "type": "road"
+    },
+    {
+        "value": "78",
+        "type": "road"
+    },
+    {
+        "value": "91",
+        "type": "road"
+    },
+    {
+        "value": "93",
+        "type": "road"
+    },
+    {
+        "value": "8",
+        "type": "road"
+    },
+    {
+        "value": "30",
+        "type": "road"
+    },
+    {
+        "value": "57",
+        "type": "road"
+    },
+    {
+        "value": "66",
+        "type": "road"
+    },
+    {
+        "value": "69",
+        "type": "road"
+    },
+    {
+        "value": "71",
+        "type": "road"
+    },
+    {
+        "value": "76",
+        "type": "road"
+    },
+    {
+        "value": "79",
+        "type": "road"
+    },
+    {
+        "value": "83",
+        "type": "road"
+    },
+    {
+        "value": "86",
+        "type": "road"
+    },
+    {
+        "value": "89",
+        "type": "road"
+    },
+    {
+        "value": "superior",
+        "type": "lake"
+    },
+    {
+        "value": "huron",
+        "type": "lake"
+    },
+    {
+        "value": "michigan",
+        "type": "lake"
+    },
+    {
+        "value": "erie",
+        "type": "lake"
+    },
+    {
+        "value": "ontario",
+        "type": "lake"
+    },
+    {
+        "value": "great salt lake",
+        "type": "lake"
+    },
+    {
+        "value": "lake of the woods",
+        "type": "lake"
+    },
+    {
+        "value": "iliamna",
+        "type": "lake"
+    },
+    {
+        "value": "okeechobee",
+        "type": "lake"
+    },
+    {
+        "value": "pontchartrain",
+        "type": "lake"
+    },
+    {
+        "value": "becharof",
+        "type": "lake"
+    },
+    {
+        "value": "red",
+        "type": "lake"
+    },
+    {
+        "value": "st. clair",
+        "type": "lake"
+    },
+    {
+        "value": "champlain",
+        "type": "lake"
+    },
+    {
+        "value": "rainy",
+        "type": "lake"
+    },
+    {
+        "value": "salton sea",
+        "type": "lake"
+    },
+    {
+        "value": "teshekpuk",
+        "type": "lake"
+    },
+    {
+        "value": "naknek",
+        "type": "lake"
+    },
+    {
+        "value": "winnebago",
+        "type": "lake"
+    },
+    {
+        "value": "mille lacs",
+        "type": "lake"
+    },
+    {
+        "value": "flathead",
+        "type": "lake"
+    },
+    {
+        "value": "tahoe",
+        "type": "lake"
+    },
+    {
+        "value": "usa",
+        "abbreviation": "usa",
+        "type": "country"
+    },
+    {
+        "value": "us",
+        "abbreviation": "usa",
+        "type": "country"
+    },
+    {
+        "value": "american",
+        "abbreviation": "usa",
+        "type": "country"
+    },
+    {
+        "value": "america",
+        "abbreviation": "usa",
+        "type": "country"
+    },
+    {
+        "value": "united states",
+        "abbreviation": "usa",
+        "type": "country"
+    },
+    {
+        "value": "country",
+        "abbreviation": "usa",
+        "type": "country"
+    }
+]

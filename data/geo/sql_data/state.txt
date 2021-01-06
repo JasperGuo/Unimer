@@ -1,0 +1,52 @@
+state_name,population,area,country_name,capital,density
+'alabama',3894000,51700,'usa','montgomery',75.31914893617021
+'alaska',401800,591000,'usa','juneau',0.6798646362098139
+'arizona',2718000,114000,'usa','phoenix',23.842105263157894
+'arkansas',2286000,53200,'usa','little rock',42.96992481203007
+'california',23670000,158000,'usa','sacramento',149.81012658227849
+'colorado',2889000,104000,'usa','denver',27.778846153846153
+'connecticut',3107000,5020,'usa','hartford',618.9243027888447
+'delaware',594000,2044,'usa','dover',290.60665362035223
+'district of columbia',638000,1100,'usa','washington',580
+'florida',9746000,68664,'usa','tallahassee',141.9375509728533
+'georgia',5463000,58900,'usa','atlanta',92.75042444821732
+'hawaii',964000,6471,'usa','honolulu',148.97233812393756
+'idaho',944000,83000,'usa','boise',11.373493975903614
+'illinois',11400000,56300,'usa','springfield',202.4866785079929
+'indiana',5490000,36200,'usa','indianapolis',151.65745856353593
+'iowa',2913000,56300,'usa','des moines',51.740674955595026
+'kansas',2364000,82300,'usa','topeka',28.724179829890645
+'kentucky',2364000,82300,'usa','frankfort',28.724179829890645
+'louisiana',4206000,47700,'usa','baton rouge',88.17610062893081
+'maine',1125000,33265,'usa','augusta',33.81932962573275
+'maryland',4217000,10460,'usa','annapolis',403.1548757170172
+'massachusetts',5737000,8284,'usa','boston',692.5398358281024
+'michigan',9262000,58500,'usa','lansing',158.32478632478632
+'minnesota',4076000,84400,'usa','st. paul',48.29383886255924
+'mississippi',2520000,47700,'usa','jackson',52.83018867924528
+'missouri',4916000,69700,'usa','jefferson city',70.53084648493544
+'montana',786700,147000,'usa','helena',5.351700680272109
+'nebraska',1569000,77300,'usa','lincoln',20.297542043984475
+'nevada',800500,110500,'usa','carson city',7.244343891402715
+'new hampshire',920600,9279,'usa','concord',99.21327729281172
+'new jersey',7365000,7787,'usa','trenton',945.8071144214717
+'new mexico',1303000,121600,'usa','santa fe',10.71546052631579
+'new york',17558000,49100,'usa','albany',357.5967413441955
+'north carolina',5882000,52670,'usa','raleigh',111.67647617239415
+'north dakota',652700,70700,'usa','bismarck',9.231966053748232
+'ohio',10800000,41300,'usa','columbus',261.50121065375305
+'oklahoma',3025000,69950,'usa','oklahoma city',43.24517512508935
+'oregon',2633000,97073,'usa','salem',27.12391705211542
+'pennsylvania',11863000,45308,'usa','harrisburg',261.8301403725611
+'rhode island',947200,1212,'usa','providence',781.5181518151816
+'south carolina',3121800,31113,'usa','columbia',100.3374795101726
+'south dakota',690767,77116,'usa','pierre',8.957505576015354
+'tennessee',4591000,42140,'usa','nashville',108.94636924537257
+'texas',14229000,266807,'usa','austin',53.33068472716233
+'utah',1461000,84900,'usa','salt lake city',17.208480565371026
+'vermont',511500,9614,'usa','montpelier',53.203661327231124
+'virginia',5346800,40760,'usa','richmond',131.1776251226693
+'washington',4113200,68139,'usa','olympia',60.36484245439469
+'west virginia',1950000,24200,'usa','charleston',80.57851239669421
+'wisconsin',4700000,56153,'usa','madison',83.69989136822609
+'wyoming',469557,97809,'usa','cheyenne',4.8007545317915525

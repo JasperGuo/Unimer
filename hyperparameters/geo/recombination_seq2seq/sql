@@ -1,0 +1,1 @@
+"{\"parameter_id\":32,\"parameter_source\":\"algorithm\",\"parameters\":{\"encoder_hidden_dim\":128,\"encoder_input_dropout\":0.2,\"embedding_dim\":100,\"decoder_dropout\":0.2,\"batch_size\":32,\"lr\":0.005},\"parameter_index\":0}"
