@@ -37,6 +37,8 @@ class CustomTrainer(Trainer):
                  optimizer: torch.optim.Optimizer,
                  iterator: DataIterator,
                  train_dataset: Iterable[Instance],
+                 train_dataset2: Iterable[Instance] = None,
+                 alpha: float = 1,
                  validation_dataset: Optional[Iterable[Instance]] = None,
                  patience: Optional[int] = None,
                  validation_metric: str = "-loss",
@@ -69,6 +71,8 @@ class CustomTrainer(Trainer):
                          should_log_learning_rate, log_batch_size_period, moving_average)
         self.tensorboard_log_batch_callback = tensorboard_log_batch_callback
         self.loss_fn = loss_fn
+        self.train_data2 = train_dataset2
+        self.alpha = alpha
 
     def get_output_dict(self, batch_group: List[TensorDict], for_training: bool) -> Dict[str, torch.Tensor]:
         """
@@ -124,6 +128,11 @@ class CustomTrainer(Trainer):
                                             num_epochs=1,
                                             shuffle=self.shuffle)
         train_generator = lazy_groups_of(raw_train_generator, num_gpus)
+        if self.train_data2 is not None:
+            raw_train_generator2 = self.iterator(self.train_data2,
+                                                num_epochs=1,
+                                                shuffle=self.shuffle)
+            train_generator2 = lazy_groups_of(raw_train_generator2, num_gpus)
         num_training_batches = math.ceil(self.iterator.get_num_batches(self.train_data)/num_gpus)
         self._last_log = time.time()
         last_save_time = time.time()
@@ -147,11 +156,25 @@ class CustomTrainer(Trainer):
 
             output_dict = self.get_output_dict(batch_group, for_training=True)
             loss = self.get_batch_loss(output_dict, for_training=True)
-
             if torch.isnan(loss):
                 raise ValueError("nan loss encountered")
-
             loss.backward()
+
+            if self.train_data2 is not None:
+                try:
+                    batch_group2 = next(train_generator2)
+                except:
+                    raw_train_generator2 = self.iterator(self.train_data2,
+                                                        num_epochs=1,
+                                                        shuffle=self.shuffle)
+                    train_generator2 = lazy_groups_of(raw_train_generator2, num_gpus)
+                    batch_group2 = next(train_generator2)
+                    
+                output_dict2 = self.get_output_dict(batch_group2, for_training=True)
+                loss2 = self.get_batch_loss(output_dict2, for_training=True) * self.alpha
+                if torch.isnan(loss2):
+                    raise ValueError("nan loss encountered")
+                loss2.backward()
 
             train_loss += loss.item()
 

@@ -55,6 +55,9 @@ flags.DEFINE_enum(
 flags.DEFINE_enum('task', 'geo', ['geo', 'atis', 'job'], 'task')
 flags.DEFINE_string('train_data', os.path.join(
     'data', 'geo', 'geo_prolog_train.tsv'), 'training data path')
+flags.DEFINE_string('train_data2', os.path.join(
+    'data', 'geo', 'geo_prolog_train.tsv'), 'training data path 2')
+flags.DEFINE_float('alpha', 1.0, 'loss weight on train data 2')
 flags.DEFINE_string('test_data', os.path.join(
     'data', 'geo', 'geo_prolog_test.tsv'), 'training data path')
 flags.DEFINE_enum('language', 'prolog', [
@@ -304,6 +307,8 @@ def main(argv):
         save_flags(FLAGS)
         train_dataset, test_dataset = reader.read(
             FLAGS.train_data), reader.read(FLAGS.test_data)
+        train_dataset2 = reader.read(FLAGS.train_data2)
+        alpha = FLAGS.alpha
         vocab = Vocabulary.from_instances(
             train_dataset, min_count={'source_tokens': FLAGS.min_count})
     else:
@@ -366,6 +371,8 @@ def main(argv):
                                     optimizer=optimizer,
                                     iterator=iterator,
                                     train_dataset=train_dataset,
+                                    train_dataset2=train_dataset2,
+                                    alpha=alpha,
                                     validation_dataset=test_dataset,
                                     patience=FLAGS.patient,
                                     num_epochs=FLAGS.epoch,
