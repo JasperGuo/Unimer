@@ -164,6 +164,7 @@ class CustomTrainer(Trainer):
                 try:
                     batch_group2 = next(train_generator2)
                 except:
+                    print("Another epoch in the second training data with loss weight {}".format(self.alpha))
                     raw_train_generator2 = self.iterator(self.train_data2,
                                                         num_epochs=1,
                                                         shuffle=self.shuffle)
